@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Singleton;
 using FactoryMethod;
 using PrototypePattern;
+using BuilderPattern;
 
 namespace DesignPattern
 {
@@ -15,7 +16,14 @@ namespace DesignPattern
         {
             //SingletonTest();
             //FactoryMethod();
-            PropertyDemo();
+            //PropertyDemo();
+            BuilderPattern();
+        }
+
+        static void BuilderPattern()
+        {
+            BuilderPatternDemo demo = new BuilderPatternDemo();
+            demo.test();
         }
 
         static void PropertyDemo()
