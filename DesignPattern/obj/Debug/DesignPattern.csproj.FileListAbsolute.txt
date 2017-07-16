@@ -8,3 +8,5 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
 C:\Code\Demo2016\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FactoryMethod.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FactoryMethod.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\PrototypePattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\PrototypePattern.pdb

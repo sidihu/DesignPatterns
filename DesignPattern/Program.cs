@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Singleton;
 using FactoryMethod;
+using PrototypePattern;
 
 namespace DesignPattern
 {
@@ -13,7 +14,15 @@ namespace DesignPattern
         static void Main(string[] args)
         {
             //SingletonTest();
-            FactoryMethod();
+            //FactoryMethod();
+            PropertyDemo();
+        }
+
+        static void PropertyDemo()
+        {
+            PrototypePatternDemo demo = new PrototypePatternDemo();
+            demo.test();
+
         }
 
         static void SingletonTest()

@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.dll
+C:\Code\Demo2016\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Code\Demo2016\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.dll
+C:\Code\Demo2016\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
