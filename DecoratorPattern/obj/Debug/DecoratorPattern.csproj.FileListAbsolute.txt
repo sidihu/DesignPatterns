@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+C:\Code\Demo2016\DesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Code\Demo2016\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+C:\Code\Demo2016\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
