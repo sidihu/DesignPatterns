@@ -5,6 +5,7 @@ using PrototypePattern;
 using BuilderPattern;
 using AbstractFactoryPattern;
 using AdapterPattern;
+using BridgePattern;
 
 namespace DesignPattern
 {
@@ -17,7 +18,14 @@ namespace DesignPattern
             //PropertyDemo();
             //BuilderPattern();
             //AbstractFactoryPatternTest();
-            AdapterPatternTest();
+            //AdapterPatternTest();
+            BridgePatternTest();
+        }
+
+        private static void BridgePatternTest()
+        {
+            BridgePatternDemo demo = new BridgePatternDemo();
+            demo.Test();
         }
 
         private static void AdapterPatternTest()

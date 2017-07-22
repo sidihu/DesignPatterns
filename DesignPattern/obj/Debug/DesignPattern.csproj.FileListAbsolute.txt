@@ -16,3 +16,5 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AbstractFactoryPattern.dl
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AbstractFactoryPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AdapterPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AdapterPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BridgePattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BridgePattern.pdb
