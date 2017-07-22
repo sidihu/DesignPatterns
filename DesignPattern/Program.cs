@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Singleton;
 using FactoryMethod;
 using PrototypePattern;
 using BuilderPattern;
+using AbstractFactoryPattern;
+using AdapterPattern;
 
 namespace DesignPattern
 {
@@ -17,7 +15,24 @@ namespace DesignPattern
             //SingletonTest();
             //FactoryMethod();
             //PropertyDemo();
-            BuilderPattern();
+            //BuilderPattern();
+            //AbstractFactoryPatternTest();
+            AdapterPatternTest();
+        }
+
+        private static void AdapterPatternTest()
+        {
+            AdapterPatternDemo demo = new AdapterPatternDemo();
+            demo.Test();
+
+        }
+
+        private static void AbstractFactoryPatternTest()
+        {
+            AbstractFactory factory = new FactoryA();
+            AbstractFactoryPatternDemo demo = new AbstractFactoryPatternDemo(factory);
+            demo.Run();
+            
         }
 
         static void BuilderPattern()

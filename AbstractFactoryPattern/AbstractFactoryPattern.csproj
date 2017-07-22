@@ -4,17 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{242AB836-A2FB-4094-85A8-D1EF5A73FC71}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{211A35A0-0EB6-4E41-BE0F-CF2A1DC6B898}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DesignPattern</RootNamespace>
-    <AssemblyName>DesignPattern</AssemblyName>
+    <RootNamespace>AbstractFactoryPattern</RootNamespace>
+    <AssemblyName>AbstractFactoryPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,37 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AbstractFactory.cs" />
+    <Compile Include="AbstractFactoryPatternDemo.cs" />
+    <Compile Include="AbstractProductA.cs" />
+    <Compile Include="AbstractProductB.cs" />
+    <Compile Include="FactoryA.cs" />
+    <Compile Include="FactoryB.cs" />
+    <Compile Include="ProductA1.cs" />
+    <Compile Include="ProductA2.cs" />
+    <Compile Include="ProductB1.cs" />
+    <Compile Include="ProductB2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AbstractFactoryPattern\AbstractFactoryPattern.csproj">
-      <Project>{211a35a0-0eb6-4e41-be0f-cf2a1dc6b898}</Project>
-      <Name>AbstractFactoryPattern</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AdapterPattern\AdapterPattern.csproj">
-      <Project>{1f41688a-4d42-4f94-94ba-3b1f87228780}</Project>
-      <Name>AdapterPattern</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj">
-      <Project>{45d7121e-2edd-46a3-9a65-a675108e4fbe}</Project>
-      <Name>BuilderPattern</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj">
-      <Project>{e924f68b-50d1-4767-b19f-97c95cb26de7}</Project>
-      <Name>FactoryMethod</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj">
-      <Project>{aa8521fc-4deb-4917-8a73-7acae5346bc1}</Project>
-      <Name>PrototypePattern</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Singleton\Singleton.csproj">
-      <Project>{259b682e-7482-4841-8f63-973be99e3937}</Project>
-      <Name>Singleton</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

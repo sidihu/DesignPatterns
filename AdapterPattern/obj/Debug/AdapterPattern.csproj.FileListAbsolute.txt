@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.dll
+C:\Code\Demo2016\DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Code\Demo2016\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.dll
+C:\Code\Demo2016\DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

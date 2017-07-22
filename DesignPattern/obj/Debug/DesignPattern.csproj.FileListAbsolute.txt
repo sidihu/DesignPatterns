@@ -12,3 +12,7 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\PrototypePattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\PrototypePattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BuilderPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BuilderPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AbstractFactoryPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AdapterPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\AdapterPattern.pdb

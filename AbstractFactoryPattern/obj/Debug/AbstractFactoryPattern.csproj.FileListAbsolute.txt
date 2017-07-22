@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.dll
+C:\Code\Demo2016\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Code\Demo2016\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.dll
+C:\Code\Demo2016\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
