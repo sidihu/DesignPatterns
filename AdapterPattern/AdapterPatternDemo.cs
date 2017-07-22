@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace AdapterPattern
 {
+    //适用性：
+    //1．系统需要使用现有的类，而此类的接口不符合系统的需要。
+    //2．想要建立一个可以重复使用的类，用于与一些彼此之间没有太大关联的一些类，包括一些可能在将来引进的类一起工作。这些源类不一定有很复杂的接口。
+    //3．（对对象适配器而言）在设计里，需要改变多个已有子类的接口，如果使用类的适配器模式，就要针对每一个子类做一个适配器，而这不太实际。
     public class AdapterPatternDemo
     {
         public void Test()
