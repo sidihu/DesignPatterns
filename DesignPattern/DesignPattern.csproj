@@ -74,6 +74,10 @@
       <Project>{e924f68b-50d1-4767-b19f-97c95cb26de7}</Project>
       <Name>FactoryMethod</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GraphicsPattern\CompositePattern.csproj">
+      <Project>{7fe0e9aa-4081-4dba-a9d9-cc950cbe686d}</Project>
+      <Name>CompositePattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj">
       <Project>{aa8521fc-4deb-4917-8a73-7acae5346bc1}</Project>
       <Name>PrototypePattern</Name>

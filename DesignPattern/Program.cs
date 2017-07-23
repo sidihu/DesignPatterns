@@ -7,6 +7,7 @@ using AbstractFactoryPattern;
 using AdapterPattern;
 using BridgePattern;
 using DecoratorPattern;
+using GraphicsPattern;
 
 namespace DesignPattern
 {
@@ -21,7 +22,14 @@ namespace DesignPattern
             //AbstractFactoryPatternTest();
             //AdapterPatternTest();
             //BridgePatternTest();
-            DecoratorPatternTest();
+            //DecoratorPatternTest();
+            CompositePatternTest();
+        }
+
+        private static void CompositePatternTest()
+        {
+            CompositePatternDemo demo = new CompositePatternDemo();
+            demo.Test();
         }
 
         private static void DecoratorPatternTest()

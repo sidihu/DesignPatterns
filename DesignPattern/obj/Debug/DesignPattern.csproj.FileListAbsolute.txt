@@ -20,3 +20,5 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BridgePattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\BridgePattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\DecoratorPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\DecoratorPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CompositePattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CompositePattern.pdb
