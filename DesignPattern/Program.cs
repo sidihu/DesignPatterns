@@ -8,6 +8,9 @@ using AdapterPattern;
 using BridgePattern;
 using DecoratorPattern;
 using GraphicsPattern;
+using FacadePattern;
+using FlyweightPattern;
+using ProxyPattern;
 
 namespace DesignPattern
 {
@@ -23,7 +26,29 @@ namespace DesignPattern
             //AdapterPatternTest();
             //BridgePatternTest();
             //DecoratorPatternTest();
-            CompositePatternTest();
+            //CompositePatternTest();
+            //FacadePatternTest();
+            //FlyweightPatternTest();
+            ProxyPatternDemo();
+        }
+
+        private static void ProxyPatternDemo()
+        {
+            ProxyPatternDemo demo = new ProxyPattern.ProxyPatternDemo();
+            demo.Test();
+
+        }
+
+        private static void FlyweightPatternTest()
+        {
+            FlyweightPatternDemo demo = new FlyweightPatternDemo();
+            demo.Test();
+        }
+
+        private static void FacadePatternTest()
+        {
+            FacadePatternDemo demo = new FacadePatternDemo();
+            demo.Test();
         }
 
         private static void CompositePatternTest()

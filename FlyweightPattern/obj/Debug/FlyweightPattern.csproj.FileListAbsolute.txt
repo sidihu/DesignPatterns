@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.dll
+C:\Code\Demo2016\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+C:\Code\Demo2016\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.dll
+C:\Code\Demo2016\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

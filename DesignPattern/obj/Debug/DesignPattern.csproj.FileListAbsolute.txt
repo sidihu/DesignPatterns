@@ -22,3 +22,9 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\DecoratorPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\DecoratorPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CompositePattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CompositePattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FacadePattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FacadePattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FlyweightPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FlyweightPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ProxyPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ProxyPattern.pdb

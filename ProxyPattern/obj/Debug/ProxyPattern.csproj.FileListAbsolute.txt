@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.dll
+C:\Code\Demo2016\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Code\Demo2016\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.dll
+C:\Code\Demo2016\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

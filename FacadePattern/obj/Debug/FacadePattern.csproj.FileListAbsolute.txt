@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\FacadePattern\bin\Debug\FacadePattern.dll
+C:\Code\Demo2016\DesignPattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Code\Demo2016\DesignPattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\FacadePattern\obj\Debug\FacadePattern.dll
+C:\Code\Demo2016\DesignPattern\FacadePattern\obj\Debug\FacadePattern.pdb

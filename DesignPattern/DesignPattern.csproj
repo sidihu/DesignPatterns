@@ -70,9 +70,17 @@
       <Project>{0ab5edb9-fc6e-4df4-a706-e506d25d6cba}</Project>
       <Name>DecoratorPattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FacadePattern\FacadePattern.csproj">
+      <Project>{57ca43e0-d416-4f08-aa1d-65091eb3abcf}</Project>
+      <Name>FacadePattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj">
       <Project>{e924f68b-50d1-4767-b19f-97c95cb26de7}</Project>
       <Name>FactoryMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlyweightPattern\FlyweightPattern.csproj">
+      <Project>{14a90568-8d45-47d8-86de-92ea38e3ff16}</Project>
+      <Name>FlyweightPattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\GraphicsPattern\CompositePattern.csproj">
       <Project>{7fe0e9aa-4081-4dba-a9d9-cc950cbe686d}</Project>
@@ -81,6 +89,10 @@
     <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj">
       <Project>{aa8521fc-4deb-4917-8a73-7acae5346bc1}</Project>
       <Name>PrototypePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProxyPattern\ProxyPattern.csproj">
+      <Project>{70bc1ae1-2a02-474f-9c52-7e43ebc2e3c3}</Project>
+      <Name>ProxyPattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\Singleton\Singleton.csproj">
       <Project>{259b682e-7482-4841-8f63-973be99e3937}</Project>
