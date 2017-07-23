@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\CommandPattern\bin\Debug\CommandPattern.dll
+C:\Code\Demo2016\DesignPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Code\Demo2016\DesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\CommandPattern\obj\Debug\CommandPattern.dll
+C:\Code\Demo2016\DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb

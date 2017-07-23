@@ -28,3 +28,7 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FlyweightPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\FlyweightPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ProxyPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ProxyPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\TemplateMethodPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CommandPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CommandPattern.pdb

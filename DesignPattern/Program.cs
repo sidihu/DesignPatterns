@@ -11,6 +11,8 @@ using GraphicsPattern;
 using FacadePattern;
 using FlyweightPattern;
 using ProxyPattern;
+using TemplateMethodPattern;
+using CommandPattern;
 
 namespace DesignPattern
 {
@@ -29,9 +31,22 @@ namespace DesignPattern
             //CompositePatternTest();
             //FacadePatternTest();
             //FlyweightPatternTest();
-            ProxyPatternDemo();
+            //ProxyPatternDemo();
+            //TemplateMethodPatternDemo();
+            CommandPatternDemo();
         }
 
+        private static void CommandPatternDemo()
+        {
+            CommandPatternDemo demo = new CommandPatternDemo();
+            demo.Test();
+        }
+
+        private static void TemplateMethodPatternDemo()
+        {
+            TemplateMethodPatternDemo demo = new TemplateMethodPatternDemo();
+            demo.Test();
+        }
         private static void ProxyPatternDemo()
         {
             ProxyPatternDemo demo = new ProxyPattern.ProxyPatternDemo();

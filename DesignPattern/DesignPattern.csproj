@@ -66,6 +66,10 @@
       <Project>{45d7121e-2edd-46a3-9a65-a675108e4fbe}</Project>
       <Name>BuilderPattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CommandPattern\CommandPattern.csproj">
+      <Project>{a8eb6e79-92eb-4ccb-a5a1-daca92cc443f}</Project>
+      <Name>CommandPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DecoratorPattern\DecoratorPattern.csproj">
       <Project>{0ab5edb9-fc6e-4df4-a706-e506d25d6cba}</Project>
       <Name>DecoratorPattern</Name>
@@ -97,6 +101,10 @@
     <ProjectReference Include="..\Singleton\Singleton.csproj">
       <Project>{259b682e-7482-4841-8f63-973be99e3937}</Project>
       <Name>Singleton</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemplateMethodPattern\TemplateMethodPattern.csproj">
+      <Project>{b2a3adef-163e-48e1-a8ac-a867efaa5d7c}</Project>
+      <Name>TemplateMethodPattern</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
