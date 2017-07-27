@@ -90,6 +90,10 @@
       <Project>{7fe0e9aa-4081-4dba-a9d9-cc950cbe686d}</Project>
       <Name>CompositePattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\IIteratorPattern\IIteratorPattern.csproj">
+      <Project>{3fccb8b9-9480-49c9-ac43-5e79e6e23d1b}</Project>
+      <Name>IIteratorPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj">
       <Project>{aa8521fc-4deb-4917-8a73-7acae5346bc1}</Project>
       <Name>PrototypePattern</Name>

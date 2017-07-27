@@ -13,6 +13,7 @@ using FlyweightPattern;
 using ProxyPattern;
 using TemplateMethodPattern;
 using CommandPattern;
+using IIteratorPattern;
 
 namespace DesignPattern
 {
@@ -33,7 +34,14 @@ namespace DesignPattern
             //FlyweightPatternTest();
             //ProxyPatternDemo();
             //TemplateMethodPatternDemo();
-            CommandPatternDemo();
+            //CommandPatternDemo();
+            IIteratorPatternDemo();
+        }
+
+        private static void IIteratorPatternDemo()
+        {
+            IIteratorPatternDemo demo = new IIteratorPatternDemo();
+            demo.Test();
         }
 
         private static void CommandPatternDemo()

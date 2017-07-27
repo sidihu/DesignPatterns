@@ -32,3 +32,5 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\TemplateMethodPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\TemplateMethodPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CommandPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\CommandPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\IIteratorPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\IIteratorPattern.pdb
