@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.dll
+C:\Code\Demo2016\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Code\Demo2016\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.dll
+C:\Code\Demo2016\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

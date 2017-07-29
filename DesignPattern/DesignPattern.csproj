@@ -66,6 +66,10 @@
       <Project>{45d7121e-2edd-46a3-9a65-a675108e4fbe}</Project>
       <Name>BuilderPattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ChainofResponsibilityPattern\ChainofResponsibilityPattern.csproj">
+      <Project>{6eb1085d-e6c7-4f8d-ad87-f427820a7ef0}</Project>
+      <Name>ChainofResponsibilityPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CommandPattern\CommandPattern.csproj">
       <Project>{a8eb6e79-92eb-4ccb-a5a1-daca92cc443f}</Project>
       <Name>CommandPattern</Name>
@@ -93,6 +97,18 @@
     <ProjectReference Include="..\IIteratorPattern\IIteratorPattern.csproj">
       <Project>{3fccb8b9-9480-49c9-ac43-5e79e6e23d1b}</Project>
       <Name>IIteratorPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterpreterPattern\InterpreterPattern.csproj">
+      <Project>{c6957e75-85df-432d-87e3-0f28108a872c}</Project>
+      <Name>InterpreterPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediatorPattern\MediatorPattern.csproj">
+      <Project>{4be96390-4b1c-4101-8121-1a269dc96d41}</Project>
+      <Name>MediatorPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObserverPattern\ObserverPattern.csproj">
+      <Project>{c9a4c0ee-5100-4ca1-8398-aa353683e16d}</Project>
+      <Name>ObserverPattern</Name>
     </ProjectReference>
     <ProjectReference Include="..\PrototypePattern\PrototypePattern.csproj">
       <Project>{aa8521fc-4deb-4917-8a73-7acae5346bc1}</Project>

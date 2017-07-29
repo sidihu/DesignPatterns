@@ -2,3 +2,4 @@ C:\Code\Demo2016\DesignPattern\IIteratorPattern\bin\Debug\IIteratorPattern.dll
 C:\Code\Demo2016\DesignPattern\IIteratorPattern\bin\Debug\IIteratorPattern.pdb
 C:\Code\Demo2016\DesignPattern\IIteratorPattern\obj\Debug\IIteratorPattern.dll
 C:\Code\Demo2016\DesignPattern\IIteratorPattern\obj\Debug\IIteratorPattern.pdb
+C:\Code\Demo2016\DesignPattern\IIteratorPattern\obj\Debug\IIteratorPattern.csprojResolveAssemblyReference.cache

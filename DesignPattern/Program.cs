@@ -14,6 +14,10 @@ using ProxyPattern;
 using TemplateMethodPattern;
 using CommandPattern;
 using IIteratorPattern;
+using ObserverPattern;
+using InterpreterPattern;
+using MediatorPattern;
+using ChainofResponsibilityPattern;
 
 namespace DesignPattern
 {
@@ -35,7 +39,36 @@ namespace DesignPattern
             //ProxyPatternDemo();
             //TemplateMethodPatternDemo();
             //CommandPatternDemo();
-            IIteratorPatternDemo();
+            //IIteratorPatternDemo();
+            // ObserverPatternDemo();
+            //InterpreterPatternDemo();
+            //MediatorPatternDemo();
+            ChainofResponsibilityPatternDemo();
+        }
+
+
+        private static void ChainofResponsibilityPatternDemo()
+        {
+            ChainofResponsibilityPatternDemo demo = new ChainofResponsibilityPatternDemo();
+            demo.Test();
+        }
+
+        private static void MediatorPatternDemo()
+        {
+            MediatorPatternDemo demo = new MediatorPattern.MediatorPatternDemo();
+            demo.Test();
+        }
+
+        private static void InterpreterPatternDemo()
+        {
+            InterpreterPatternDemo demo = new InterpreterPatternDemo();
+            demo.Test();
+        }
+
+        private static void ObserverPatternDemo()
+        {
+            ObserverPatternDemo demo = new ObserverPatternDemo();
+            demo.Test();
         }
 
         private static void IIteratorPatternDemo()
