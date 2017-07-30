@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\StatePattern\bin\Debug\StatePattern.dll
+C:\Code\Demo2016\DesignPattern\StatePattern\bin\Debug\StatePattern.pdb
+C:\Code\Demo2016\DesignPattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\StatePattern\obj\Debug\StatePattern.dll
+C:\Code\Demo2016\DesignPattern\StatePattern\obj\Debug\StatePattern.pdb

@@ -1,0 +1,5 @@
+C:\Code\Demo2016\DesignPattern\VisitorPattern\bin\Debug\VisitorPattern.dll
+C:\Code\Demo2016\DesignPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Code\Demo2016\DesignPattern\VisitorPattern\obj\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Code\Demo2016\DesignPattern\VisitorPattern\obj\Debug\VisitorPattern.dll
+C:\Code\Demo2016\DesignPattern\VisitorPattern\obj\Debug\VisitorPattern.pdb

@@ -1,0 +1,4 @@
+C:\Code\Demo2016\DesignPattern\MementoPattern\bin\Debug\MementoPattern.dll
+C:\Code\Demo2016\DesignPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Code\Demo2016\DesignPattern\MementoPattern\obj\Debug\MementoPattern.dll
+C:\Code\Demo2016\DesignPattern\MementoPattern\obj\Debug\MementoPattern.pdb

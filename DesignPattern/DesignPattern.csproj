@@ -106,6 +106,10 @@
       <Project>{4be96390-4b1c-4101-8121-1a269dc96d41}</Project>
       <Name>MediatorPattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MementoPattern\MementoPattern.csproj">
+      <Project>{c63aac2c-1dc7-480d-9904-fffd7857b38e}</Project>
+      <Name>MementoPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ObserverPattern\ObserverPattern.csproj">
       <Project>{c9a4c0ee-5100-4ca1-8398-aa353683e16d}</Project>
       <Name>ObserverPattern</Name>
@@ -122,9 +126,21 @@
       <Project>{259b682e-7482-4841-8f63-973be99e3937}</Project>
       <Name>Singleton</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StatePattern\StatePattern.csproj">
+      <Project>{69fd4a56-6536-4b72-9ca8-d873ec738c61}</Project>
+      <Name>StatePattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StrategyPattern\StrategyPattern.csproj">
+      <Project>{005ea30a-6446-40c2-baa4-ecffe8c1a085}</Project>
+      <Name>StrategyPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TemplateMethodPattern\TemplateMethodPattern.csproj">
       <Project>{b2a3adef-163e-48e1-a8ac-a867efaa5d7c}</Project>
       <Name>TemplateMethodPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VisitorPattern\VisitorPattern.csproj">
+      <Project>{2cb16f37-27ce-4dec-aff1-e19b076547f0}</Project>
+      <Name>VisitorPattern</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

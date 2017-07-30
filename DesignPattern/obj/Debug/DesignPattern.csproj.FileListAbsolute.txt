@@ -42,3 +42,11 @@ C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\MediatorPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\MediatorPattern.pdb
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ChainofResponsibilityPattern.dll
 C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\ChainofResponsibilityPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\MementoPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\MementoPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\StrategyPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\StrategyPattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\StatePattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\VisitorPattern.dll
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\StatePattern.pdb
+C:\Code\Demo2016\DesignPattern\DesignPattern\bin\Debug\VisitorPattern.pdb

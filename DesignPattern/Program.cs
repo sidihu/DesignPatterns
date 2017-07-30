@@ -18,6 +18,10 @@ using ObserverPattern;
 using InterpreterPattern;
 using MediatorPattern;
 using ChainofResponsibilityPattern;
+using MementoPattern;
+using StrategyPattern;
+using VisitorPattern;
+using StatePattern;
 
 namespace DesignPattern
 {
@@ -43,7 +47,35 @@ namespace DesignPattern
             // ObserverPatternDemo();
             //InterpreterPatternDemo();
             //MediatorPatternDemo();
-            ChainofResponsibilityPatternDemo();
+            //ChainofResponsibilityPatternDemo();
+            //MementoPatternDemo();
+            //StrategyPatternDemo();
+            //VisitorPatternDemo();
+            StatePatternDemo();
+        }
+
+        private static void StatePatternDemo()
+        {
+            StatePatternDemo demo = new StatePatternDemo();
+            demo.Test();
+        }
+
+        private static void VisitorPatternDemo()
+        {
+            VisitorPatternDemo demo = new VisitorPatternDemo();
+            demo.Test();
+        }
+
+        private static void StrategyPatternDemo()
+        {
+            StrategyPatternDemo demo = new StrategyPatternDemo();
+            demo.Test();
+        }
+
+        private static void MementoPatternDemo()
+        {
+            MementoPatternDemo demo = new MementoPatternDemo();
+            demo.Test();
         }
 
 
